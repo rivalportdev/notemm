@@ -19,7 +19,7 @@
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/rivalportdev/notemm.git
    ```
 
 2. **Accede al directorio del script**:
